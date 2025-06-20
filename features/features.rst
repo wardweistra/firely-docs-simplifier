@@ -11,6 +11,7 @@ Here you will find the documentation of Simplifier's additional features.
   
   simplifierFirely-server
   simplifierBackupAndSynchronization
+  simplifierOnlineResourceEditor
   api
   simplifierConnectors
   simplifierEmbeddedRendering
